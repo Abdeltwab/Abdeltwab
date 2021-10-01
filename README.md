@@ -26,6 +26,6 @@
 </div>
 
 
-[codeforces]: https://codeforces.com/profile/Abdultwab_Mohamad
+<!-- [codeforces]: https://codeforces.com/profile/Abdultwab_Mohamad
 [hackerrank]: https://www.hackerrank.com/Abdeltwab_elhus1
-[leetCode]: https://leetcode.com/Abdeltwab/
+[leetCode]: https://leetcode.com/Abdeltwab/ -->
