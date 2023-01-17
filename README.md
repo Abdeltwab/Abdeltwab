@@ -5,7 +5,6 @@
 
 ##### BIO
 
-- 🏢 I'm currently a full-time remote iOS Developer at **Jumia Group**
 - ⚙️ I use : `swift`, `C++` ,`Objectve-C` ,`swiftUI` 
 - 👨‍💻 Currently Learning : `nodeJs`, `Kotlin` 
 - ✅ I Practice Data Structures and Algorithms at [leetCode],[hackerrank] ,[codeforces]
